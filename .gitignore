@@ -1,0 +1,7 @@
+__pycache__
+.vscode/*
+bin/*
+.vs/*
+data/*
+env/*
+tools/*
